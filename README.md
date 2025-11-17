@@ -24,8 +24,12 @@
   <a href="https://github.com/jayadewa123" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="40" width="40" />
+  <a href="https://linkedin.com/in/dilanka jayadewa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilanka jayadewa" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/_twinkie_03" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_twinkie_03" height="30" width="40" />
   </a>
 </p>
 
