@@ -10,7 +10,7 @@
 - 📫 How to reach me: **[dilankajayadewa@gmail.com](mailto:dilankajayadewa@gmail.com)**
 - ⚡ Fun fact: **Call me Dil**
 
-- ## About me
+-  About me
 - 🔭 I’m currently working on frontend projects and exploring new UI interactions.
 - 🌱 I’m learning more about advanced React patterns and performance.
 - 🎯 I love turning design ideas into pixel-perfect code
