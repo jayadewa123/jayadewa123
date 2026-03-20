@@ -107,13 +107,13 @@
 
 <p align="center">
   <!-- Streak / Trophies / Activity -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jayadewa123&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jayadewa123&theme=radical&no-frame=true&column=7" alt="Trophies" />
 
   <!-- Contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayadewa123&theme=dark&border_radius=4" alt="GitHub streak" />
 
   <!-- Activity graph (contributions calendar style) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayadewa123&theme=react-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=jayadewa123&theme=react-dark" alt="Contributions graph" />
 </p>
 
 ---
